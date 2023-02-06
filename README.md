@@ -1,4 +1,4 @@
-# Cloud Module Application TEST
+# Cloud Module Application TESTing
 
 This is an web application written in Python. It does things and we'd like help deploying it.
 
